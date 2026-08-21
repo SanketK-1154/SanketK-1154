@@ -72,7 +72,7 @@
 ## 🏆 Podium Finishes — Top Repos
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Sanketk-1154&repo=YOUR_REPO_NAME&theme=dark" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Sanketk-1154&repo=Sign-Language-Interpreter&theme=dark" />
 </p>
 
 ---
