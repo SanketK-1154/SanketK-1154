@@ -11,8 +11,6 @@
 ## 🏁 Starting Grid — About Me
 
 - 🔭 **In the workshop:** building and fine-tuning new projects, treating every bug like a pit-stop fix
-- 👯 **Looking to team up on:** open-source projects in C/C++, Python, or web dev
-- 🤝 **Need a co-driver for:** backend systems and database design at scale
 - 🌱 **Currently in driving school for:** React and MongoDB, going deeper every lap
 - 💬 **Flag me down to talk about:** C, C++, Python, SQL, or Linux/Ubuntu
 - ⚡ **Fun fact:** I enjoy debugging almost as much as I enjoy building — it's the chase before the finish line
@@ -60,16 +58,21 @@
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sanketk-1154&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-## 🎯 Track Record — Commit Streak
+## 🎯 Track Record — Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sanketk-1154&theme=dark&hide_border=false" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+    <img alt="Sanket's contribution snake graph" src="./assets/snake.svg" />
+  </picture>
 </p>
 
-## 🏆 Podium Finishes — Trophies
+<p align="center"><sub>Generated automatically by a GitHub Action in this repo — updates daily, no third-party server involved.</sub></p>
+
+## 🏆 Podium Finishes — Top Repos
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanketk-1154&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Sanketk-1154&repo=YOUR_REPO_NAME&theme=dark" />
 </p>
 
 ---
@@ -79,7 +82,7 @@
 <sub>🏁 Thanks for visiting the pit lane —</sub>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://komarev.com/ghpvc/?username=Sanketk-1154&icon=6&color=1" />
+  <img src="https://komarev.com/ghpvc/?username=Sanketk-1154&icon=6&color=blueviolet" />
 </a>
 
 </div>
